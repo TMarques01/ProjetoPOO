@@ -1,0 +1,10 @@
+arte/Qual é o nome da pintura mais famosa de Leonardo da Vinci?/Mona Lisa;A Garota com Brinco de Pérola;A Última Ceia;A Noite Estrelada;A Ronda Noturna;A Gritaria;O Grito de Edvard Munch;A Noite Estrelada de Vincent van Gogh;O Pensador de Auguste Rodin/5
+arte/Qual é o nome da pintura mais famosa de Salvador Dalí?/A Persistência da Memória;A Tentação de Santo Antônio;Retrato de Gala com Duas Costeletas de Carne;Madonna de Port Lligat;A Noite Estrelada;A Última Ceia;A Ronda Noturna;O Grito;La Gioconda/5
+ciencia/Qual é o nome do elemento químico com o símbolo “O”?/Oxigênio;Ouro;Osíris/Oxigênio;Ouro Branco;Orquídea;Osso;Ouvido/5
+ciencia/Qual é o nome do planeta mais próximo do sol?/Mercúrio;Vênus;Terra;Marte;Urano/Mercúrio;Urso;Uruguai;Ultravioleta;Ucrânia/5
+futebol/Qual é o nome do jogador de futebol que detém o recorde de mais gols marcados em uma única temporada europeia?/Lionel Messi_Camisola 10;Cristiano Ronaldo_Camisola 7;Neymar_Camisola 11;Mohamed Salah_Camisola 9;Kylian Mbappé_Camisola 29/5
+futebol/Qual jogador é conhecido como "O Fenômeno"?/Ronaldo Nazário_Camisola 9;Lionel Messi_Camisola 10;Cristiano Ronaldo_Camisola 7;Neymar_Camisola 11;Zinedine Zidane_Camisola 5;Ronaldinho Gaúcho_Camisola 10;Thierry Henry_Camisola 14;Andrés Iniesta_Camisola 8;Kaká_Camisola 22/5
+ski/Kjetil André Aamodt detém o recorde de mais medalhas olímpicas na história do esqui alpino/Verdadeiro/5
+ski/Ingemar Stenmark detém o recorde de mais vitórias na Copa do Mundo de Esqui Alpino/Verdadeiro/5
+natacao/Michael Phelps detém o recorde de mais medalhas olímpicas na história da natação/Verdadeiro/5
+natacao/Alexander Popov detém o recorde de mais medalhas em Campeonatos Europeus de Natação/Verdadeiro/5
